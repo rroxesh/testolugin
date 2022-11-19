@@ -1,0 +1,8 @@
+{
+  "name": "testoplugin",
+  "description": "test",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/rroxesh/testolugin/builds/plugins.json"
+  ]
+}
